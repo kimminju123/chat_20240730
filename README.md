@@ -16,3 +16,12 @@
 - 사용자 Id를 쿠키에 저장
 - 비밀번호 체크를 서버에 요청 (토큰으로 보냄)
 - 로그인 성공
+
+# 07월 30일 수업내용
+1. 
+  - npx create-react-app 폴더명
+  - npm install -D tailwindcss
+  - npm tailwindcss init
+  - tailwind.config.js "./src/**/*.{html,js}"
+  - 
+ -Re
